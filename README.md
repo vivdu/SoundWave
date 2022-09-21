@@ -28,10 +28,10 @@ La identidad de marca crea la personalidad de la compañía, la [psicología del
  Con base a esto es posible listar las funciones necesarias, que son: a) presentar los planes y descuentos, b) 
  
  **5. Maquetado**
- Para la maquetación del sitio se utilizó la herramienta de diseño Figma, en este [enlace](https://www.figma.com/file/BWAY4j7rlwe9z6Nf8eLsg7/SoundWave?node-id=0%3A1)se encuentra disponible el prototipo, en versión para escritorio y también para mobil.
+ Para la maquetación del sitio se utilizó la herramienta de diseño Figma, en este [enlace](https://www.figma.com/file/BWAY4j7rlwe9z6Nf8eLsg7/SoundWave?node-id=0%3A1) se encuentra disponible el prototipo, en versión para escritorio y también para navegadores en smartphone.
 
  **6. Desarrollo**
   En la carpeta ['landing page'](https://github.com/vivdu/SoundWave/tree/main/landing-page) del repositorio se encuentra codificado en HTML y CSS según el prototipo planteado.
   
  **7. Publicación**
- se incluyen también un documento en drive con capturas de pantalla para su visualización 
+ ![](https://raw.githubusercontent.com/vivdu/SoundWave/main/captura-pantalla.png)
